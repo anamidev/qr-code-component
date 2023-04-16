@@ -2,8 +2,15 @@ import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
     return (
-        <Html className='bg-custom-l-gray'>
+        <Html
+            className="bg-custom-l-gray"
+            lang="en"
+        >
             <Head>
+                <link
+                    rel="shortcut icon"
+                    href="/favicon-32x32.png"
+                />
                 <link
                     rel="preconnect"
                     href="https://fonts.googleapis.com"
