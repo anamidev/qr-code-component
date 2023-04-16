@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution](https://www.frontendmentor.io/solutions/qrcode-component-C4sstpxIuz)
-- [Live sive](https://qr-code-component-anamidev.vercel.app/)
+- [Live site](https://qr-code-component-anamidev.vercel.app/)
 
 ### Built with
 
